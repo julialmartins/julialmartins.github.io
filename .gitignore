@@ -1,5 +1,4 @@
-# Object file
-*.o
-
-# Ada Library Information
-*.ali
+_site/
+.sass-cache/
+.jekyll-metadata
+.Rproj.user
