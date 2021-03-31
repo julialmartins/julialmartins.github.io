@@ -18,7 +18,7 @@
 * Simple navigation menu
 * MathJax support
 
-## Preview
+## Fotos
 
 ![](foto1.jpeg)    
 ![Momentos](foto2.jpeg)
