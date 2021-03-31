@@ -26,4 +26,4 @@ comments: false
     https://github.com/julialmartins/julialmartins.github.io/blob/main/about/foto1.jpeg
     https://github.com/julialmartins/julialmartins.github.io/blob/main/about/foto2.jpeg
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+
