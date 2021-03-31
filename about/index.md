@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Um pouco sobre mim
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+tags: about
+date: 2021-03-31
 comments: false
 ---
     
@@ -15,7 +15,7 @@ TESTE
 ## Fotos
 
 {% capture images %}
-    https://github.com/julialmartins/julialmartins.github.io/blob/main/about/foto1.jpeg?raw=true
-    https://github.com/julialmartins/julialmartins.github.io/blob/main/about/foto2.jpeg?raw=true
+    https://github.com/julialmartins/julialmartins.github.io/blob/9be507c27f1305c3d5275c26befa4d7617da3261/about/foto1.jpeg
+    https://github.com/julialmartins/julialmartins.github.io/blob/9be507c27f1305c3d5275c26befa4d7617da3261/about/foto2.jpeg
 {% endcapture %}
 
