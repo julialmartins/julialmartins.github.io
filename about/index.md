@@ -22,6 +22,8 @@ comments: false
 
 ## Fotos
 
-![screenshot of Moon](https://github.com/julialmartins/julialmartins.github.io/blob/main/about/foto2.jpeg)    
-![screenshot of Moon](https://github.com/julialmartins/julialmartins.github.io/blob/main/about/foto1.jpeg)
-
+{% capture images %}
+    https://github.com/julialmartins/julialmartins.github.io/blob/main/about/foto1.jpeg
+    https://github.com/julialmartins/julialmartins.github.io/blob/main/about/foto2.jpeg
+{% endcapture %}
+{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
