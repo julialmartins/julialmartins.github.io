@@ -24,8 +24,8 @@ comments: false
 
 <div style = "display: inline-block;">
 
-![](foto1.jpeg)
-![](foto2.jpeg)
-
+<img src="foto1.jpeg" width="400" height="200">
+<img src="foto2.jpeg" width="400" height="200">
+    
 </div>
 
