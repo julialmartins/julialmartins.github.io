@@ -8,7 +8,7 @@ comments: false
     
 <center>Este é um <a href="https://julialmartins.github.io//"><b>blog</b></a> no qual compartilho um pouco sobre minha vida.</center>
 
-## Features
+## Quem é Júlia Martins?
 * Minimal, you can focus on your content
 * Responsive
 * Disqus integration
