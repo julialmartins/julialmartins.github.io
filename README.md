@@ -20,6 +20,6 @@
 
 ## Preview
 
-![screenshot of Moon](https://github.com/julialmartins/julialmartins.github.io/blob/main/about/foto1.jpeg?raw=true)    
+!(https://github.com/julialmartins/julialmartins.github.io/blob/main/about/foto1.jpeg?raw=true)    
 ![screenshot of Moon](https://github.com/julialmartins/julialmartins.github.io/blob/main/about/foto2.jpeg?raw=true)
 

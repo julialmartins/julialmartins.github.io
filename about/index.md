@@ -9,16 +9,8 @@ comments: false
 <center>Este é um <a href="https://julialmartins.github.io//"><b>blog</b></a> no qual compartilho um pouco sobre minha vida.</center>
 
 ## Quem é Júlia Martins?
-* teste
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+
+TESTE
 
 ## Fotos
 
