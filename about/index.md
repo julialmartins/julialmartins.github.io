@@ -23,7 +23,7 @@ comments: false
 ## Fotos
 
 {% capture images %}
-    https://github.com/julialmartins/julialmartins.github.io/blob/main/about/foto1.jpeg
-    https://github.com/julialmartins/julialmartins.github.io/blob/main/about/foto2.jpeg
+    https://github.com/julialmartins/julialmartins.github.io/blob/main/about/foto1.jpeg?raw=true
+    https://github.com/julialmartins/julialmartins.github.io/blob/main/about/foto2.jpeg?raw=true
 {% endcapture %}
 
