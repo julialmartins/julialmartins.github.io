@@ -22,10 +22,6 @@ comments: false
 
 ## Fotos
 
-<div style = "display: inline-block;">
-
-<img src="foto1.jpeg" width="400" height="200">
-<img src="foto2.jpeg" width="400" height="200">
-    
-</div>
+![screenshot of Moon](https://github.com/julialmartins/julialmartins.github.io/blob/main/about/foto2.jpeg)    
+![screenshot of Moon](https://github.com/julialmartins/julialmartins.github.io/blob/main/about/foto1.jpeg)
 
