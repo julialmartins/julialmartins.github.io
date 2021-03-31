@@ -22,7 +22,9 @@ comments: false
 
 ## Fotos
 
+<div style = "display: inline-block;">
+
 ![](foto1.jpeg)
-![](foto2.jpeg)
 ![](foto3.jpeg)
 
+</div>
