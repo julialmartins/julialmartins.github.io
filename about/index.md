@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="https://julialmartins.github.io//"> Este é um <b>blog</b></a> no qual compartilho um pouco sobre minha vida.</center>
+<center>Este é um <a href="https://julialmartins.github.io//"><b>blog</b></a> no qual compartilho um pouco sobre minha vida.</center>
 
 ## Features
 * Minimal, you can focus on your content
