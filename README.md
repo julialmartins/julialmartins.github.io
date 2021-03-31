@@ -23,6 +23,3 @@
 ![](foto1.jpeg)    
 ![Momentos](foto2.jpeg)
 ![Momentos](foto3.jpeg)
-
-
-
