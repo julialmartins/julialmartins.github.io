@@ -15,8 +15,8 @@ TESTE
 ## Fotos
 
 <div style = "display: inline-block;">
-<img src="foto1.jpeg" style = "height: 300px; width: 100px;>
-<img src="foto2.jpeg" style = "height: 300px; width: 100px;>
+<img src="foto1.jpeg" style = "height: 300px; width: 100px;">
+<img src="foto2.jpeg" style = "height: 300px; width: 100px;">
 </div>
 
 
