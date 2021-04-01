@@ -14,8 +14,12 @@ TESTE
 
 ## Fotos
 
-{% capture images %}
-    https://github.com/julialmartins/julialmartins.github.io/blob/9be507c27f1305c3d5275c26befa4d7617da3261/about/foto1.jpeg
-    https://github.com/julialmartins/julialmartins.github.io/blob/9be507c27f1305c3d5275c26befa4d7617da3261/about/foto2.jpeg
-{% endcapture %}
+{% highlight html %}
+<figure class="half">
+	<a href="https://github.com/julialmartins/julialmartins.github.io/blob/9be507c27f1305c3d5275c26befa4d7617da3261/about/foto1.jpeg"><img src="https://github.com/julialmartins/julialmartins.github.io/blob/9be507c27f1305c3d5275c26befa4d7617da3261/about/foto1.jpeg"></a>
+	<a href="https://github.com/julialmartins/julialmartins.github.io/blob/9be507c27f1305c3d5275c26befa4d7617da3261/about/foto2.jpeg"><img src="https://github.com/julialmartins/julialmartins.github.io/blob/9be507c27f1305c3d5275c26befa4d7617da3261/about/foto2.jpeg"></a>
+	<figcaption><Momentos.</figcaption>
+</figure>
+{% endhighlight %}
+
 
