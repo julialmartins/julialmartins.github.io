@@ -15,7 +15,7 @@ TESTE
 ## Fotos
 
 <figure class = "half">
-    <img src="foto1.jpeg" style = "height: 400px; width: 300px;">
+    <img src="foto1.jpeg" style = "height: 400px; width: 250px;">
     <img src="foto2.jpeg" style = "height: 400px; width: 500px;">
 </figure>
 
