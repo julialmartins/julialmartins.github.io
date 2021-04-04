@@ -15,7 +15,7 @@ comments: false
     <img src="3.jpeg" style = "height: 220px; width: 340px;">
     <img src="4.jpeg" style = "height: 220px; width: 340px;">
     <img src="6.jpeg" style = "height: 230px; width: 340px;">
-    <img src="7.jpeg" style = "height: 220px; width: 340px;">
+    <img src="7.jpeg" style = "height: 220px; width: 360px;">
 </figure>
 
 
