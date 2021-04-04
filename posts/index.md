@@ -1,6 +1,8 @@
 ---
-layout: post-list
-title: Momentos na UFV
+layout: page
+title: Momentos
 excerpt: "A List of Posts"
 comments: false
 ---
+
+## Momentos na UFV
