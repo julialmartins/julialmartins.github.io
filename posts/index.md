@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: Posts
+title: Momentos
 excerpt: "A List of Posts"
 comments: false
 ---
