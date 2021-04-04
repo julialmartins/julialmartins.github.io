@@ -9,12 +9,12 @@ comments: false
 ## Memórias com pessoas especiais 
 
 <figure class = "half">
-    <img src="1.jpeg" style = "height: 350px; width: 310px;">
-    <img src="2.jpeg" style = "height: 350px; width: 310px;">
-    <img src="5.jpeg" style = "height: 440px; width: 340px;">
+    <img src="1.jpeg" style = "height: 350px; width: 340px;">
+    <img src="2.jpeg" style = "height: 350px; width: 370px;">
+    <img src="5.jpeg" style = "height: 450px; width: 340px;">
     <img src="3.jpeg" style = "height: 220px; width: 370px;">
     <img src="4.jpeg" style = "height: 220px; width: 370px;">
-    <img src="6.jpeg" style = "height: 230px; width: 340px;">
+    <img src="6.jpeg" style = "height: 220px; width: 340px;">
     <img src="7.jpeg" style = "height: 220px; width: 370px;">
 </figure>
 
