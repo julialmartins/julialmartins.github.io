@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: Lembranças UFV
+title: Momentos na UFV
 excerpt: "A List of Posts"
 comments: false
 ---
