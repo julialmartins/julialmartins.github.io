@@ -10,13 +10,13 @@ comments: false
 
 ## Quem é Júlia Martins?
 
-TESTE
+TESTE1
 
 ## Fotos
 
 <figure class = "half">
-    <img src="foto1.jpeg" style = "height: 400px; width: 250px;">
-    <img src="foto2.jpeg" style = "height: 400px; width: 500px;">
+    <img src="foto1.jpeg" style = "height: 350px; width: 200px;">
+    <img src="foto2.jpeg" style = "height: 350px; width: 500px;">
 </figure>
 
 
